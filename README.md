@@ -6,7 +6,7 @@
 - UUID v4
 - react-create-app
 
-###Running the Server:
+### Running the Server:
 - `npm install` to install all required dependencies
 - `npm start` to serve the application on localhost:3000
 - `npm run build` to build the application for production
